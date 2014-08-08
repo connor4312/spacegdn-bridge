@@ -33,7 +33,7 @@ bridge
     });
 
 // Query demonstrating most GDN properties.
-bridge.
+bridge
     .jar(2)
     .get('builds')
     .where('build', '>', 1234)
